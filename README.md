@@ -30,7 +30,7 @@ Extensions 뷰에서 "Korean" 검색해서 설치
 사진을 따로 찾은 다음 우클릭 -> (이미지를 다른 이름으로 저장) -> 내PC -> 로컬 디스트 -> 자신의 파일 -> 저장(같은 곳에 저장해야 이미지를 불러올수 있다)
 ```
 
-## Matplotlib을 이영한 영상 출력
+## Matplotlib을 이용한 영상 출력
 ```
 -cmd에서 설치
 >pip install matplotilb
