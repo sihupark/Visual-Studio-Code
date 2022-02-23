@@ -68,3 +68,6 @@ plt.subplot(122), plt.axis('off'), plt.imshow(imgGray, cmap='gray')
 plt.show()
 
 {subplot(121)에 121은 (1):1줄, (2): 두칸, (1): 첫 칸}
+```
+
+
